@@ -1,1 +1,116 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Store | Purl &amp; Paws</title>
+    <meta
+      name="description"
+      content="Browse fifteen handmade crochet animals from Purl & Paws, five at a time."
+    />
+    <link rel="stylesheet" href="./src/styles/main.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
 
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html">
+          <span class="brand-mark" aria-hidden="true">P</span>
+          <span>
+            <span class="brand-name">Purl &amp; Paws</span>
+            <span class="brand-tag">Handmade crochet</span>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a class="nav-link" href="./index.html">Home</a>
+          <a class="nav-link" href="./about.html">About</a>
+          <a class="nav-link" href="./store.html" aria-current="page">Store</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="page-intro">
+        <div class="container narrow stack">
+          <p class="eyebrow">The catalog</p>
+          <h1>Shop the menagerie</h1>
+          <p class="lede">
+            Fifteen handmade animals. Five are on the table at a time — move
+            through the catalog with Previous and Next. The page stays put.
+          </p>
+        </div>
+      </section>
+
+      <section class="store-section">
+        <div class="container">
+          <div
+            id="product-grid"
+            class="product-grid"
+            aria-label="Products"
+          ></div>
+          <noscript>
+            <p class="noscript-note">
+              JavaScript is required to load the product catalog.
+            </p>
+          </noscript>
+          <nav class="pagination" aria-label="Product pages">
+            <button
+              type="button"
+              id="prev-page"
+              class="page-btn"
+              aria-controls="product-grid"
+              disabled
+            >
+              Previous
+            </button>
+            <p id="page-indicator" class="page-indicator" role="status">
+              Page 1 of 3
+            </p>
+            <button
+              type="button"
+              id="next-page"
+              class="page-btn"
+              aria-controls="product-grid"
+            >
+              Next
+            </button>
+          </nav>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div class="stack">
+          <p class="footer-brand">Purl &amp; Paws</p>
+          <p>Handmade crochet animals, stitched in small batches.</p>
+          <p>18 Willow Loop, Stitchfield</p>
+        </div>
+        <div>
+          <h2 class="footer-heading">Studio hours</h2>
+          <ul class="hours-list">
+            <li>Tuesday–Friday, 11am–6pm</li>
+            <li>Saturday, 10am–4pm</li>
+            <li>Sunday &amp; Monday, closed</li>
+          </ul>
+        </div>
+        <div>
+          <h2 class="footer-heading">Connect</h2>
+          <ul class="footer-links">
+            <li>
+              <a href="mailto:hello@purlandpaws.example">Email the studio</a>
+            </li>
+            <li><a href="./about.html">Plan a visit</a></li>
+            <li><a href="./store.html">Browse animals</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="container legal-row">
+        <p>© 2026 Purl &amp; Paws. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>

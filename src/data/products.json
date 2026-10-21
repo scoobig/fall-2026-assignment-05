@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Crochet Bear",
+    "price": 27.99,
+    "category": "Crochet Animals",
+    "description": "A classic, cuddly plush bear handcrafted with soft acrylic yarn. Features rounded ears and a timeless snout that make it a cozy gift.",
+    "imageUrl": "./images/crochetBear.png"
+  },
+  {
+    "id": 2,
+    "name": "Crochet Cheetah",
+    "price": 36.99,
+    "category": "Crochet Animals",
+    "description": "Intricately detailed with hand-stitched spots and contrasting yarn accents. A unique, artisan plush perfect for lovers of wild cats.",
+    "imageUrl": "./images/crochetCheetah.png"
+  },
+  {
+    "id": 3,
+    "name": "Crochet Chicken",
+    "price": 24.99,
+    "category": "Crochet Animals",
+    "description": "An adorable barnyard friend featuring a bright red comb and textured feather stitches. Compact, charming, and full of personality.",
+    "imageUrl": "./images/crochetChicken.png"
+  },
+  {
+    "id": 4,
+    "name": "Crochet Cow",
+    "price": 31.99,
+    "category": "Crochet Animals",
+    "description": "Stitched with classic black and white patches and cute little horns. Soft and squishy, making it a sweet addition to any plush collection.",
+    "imageUrl": "./images/crochetCow.png"
+  },
+  {
+    "id": 5,
+    "name": "Crochet Deer",
+    "price": 34.99,
+    "category": "Crochet Animals",
+    "description": "Features delicate branched antlers and subtle embroidered spots along its back. Made with premium woodland-toned yarn for a gentle aesthetic.",
+    "imageUrl": "./images/crochetDeer.png"
+  },
+  {
+    "id": 6,
+    "name": "Crochet Dragon",
+    "price": 39.99,
+    "category": "Crochet Animals",
+    "description": "A detailed fantasy plush complete with stitched wings, textured scales, and tiny horns. Requires extra yarn and time, making it a true showstopper.",
+    "imageUrl": "./images/crochetDragon.png"
+  },
+  {
+    "id": 7,
+    "name": "Crochet Elephant",
+    "price": 32.99,
+    "category": "Crochet Animals",
+    "description": "Designed with oversized floppy ears and a curved trunk crafted from plush gray yarn. Huggable, sturdy, and wonderfully soft.",
+    "imageUrl": "./images/crochetElephant.png"
+  },
+  {
+    "id": 8,
+    "name": "Crochet Fox",
+    "price": 29.99,
+    "category": "Crochet Animals",
+    "description": "Handcrafted in vibrant burnt-orange yarn with a fluffy white-tipped tail and dark paws. A clever and cheerful companion.",
+    "imageUrl": "./images/crochetFox.png"
+  },
+  {
+    "id": 9,
+    "name": "Crochet Frog",
+    "price": 24.99,
+    "category": "Crochet Animals",
+    "description": "Bright green and pocket-sized with big, expressive safety eyes. Quick to charm anyone looking for a fun desktop buddy.",
+    "imageUrl": "./images/crochetFrog.png"
+  },
+  {
+    "id": 10,
+    "name": "Crochet Highland Cow",
+    "price": 38.99,
+    "category": "Crochet Animals",
+    "description": "Made with extra fluffy, textured yarn to recreate a signature shaggy coat and long horns. A cozy favorite that takes extra yarn to make.",
+    "imageUrl": "./images/crochetHighlandCow.png"
+  },
+  {
+    "id": 11,
+    "name": "Crochet Lion",
+    "price": 35.99,
+    "category": "Crochet Animals",
+    "description": "Features a full, hand-looped yarn mane that adds incredible texture and personality. Bold and kingly yet ultra-soft to hold.",
+    "imageUrl": "./images/crochetLion.png"
+  },
+  {
+    "id": 12,
+    "name": "Crochet Penguin",
+    "price": 26.99,
+    "category": "Crochet Animals",
+    "description": "Chubby and cheerful with a smooth color-blocked belly and tiny orange feet. Crafted for maximum squishiness.",
+    "imageUrl": "./images/crochetPenguin.png"
+  },
+  {
+    "id": 13,
+    "name": "Crochet Pig",
+    "price": 25.99,
+    "category": "Crochet Animals",
+    "description": "Stitched in soft pastel pink yarn with a prominent snout and curly little tail. Simple, sweet, and irresistible.",
+    "imageUrl": "./images/crochetPig.png"
+  },
+  {
+    "id": 14,
+    "name": "Crochet Tiger",
+    "price": 36.99,
+    "category": "Crochet Animals",
+    "description": "Showcases intricate stripe detailing hand-embroidered across a rich orange body. A labor-intensive plush made with care.",
+    "imageUrl": "./images/crochetTiger.png"
+  },
+  {
+    "id": 15,
+    "name": "Crochet Unicorn",
+    "price": 37.99,
+    "category": "Crochet Animals",
+    "description": "Topped with a shimmering metallic horn and a colorful pastel yarn mane. Magical, whimsical, and crafted with specialty fibers.",
+    "imageUrl": "./images/crochetUnicorn.png"
+  }
+]
